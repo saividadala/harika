@@ -1,0 +1,27 @@
+body{
+background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+.container-fluid{
+    
+    background-color: darkgrey
+        margin-left: 20PX;
+    margin-right: 20PX;
+    padding: 10PX;
+    
+}
+.dropone{
+    background-color: bisque;
+    border-style: groove;
+    border-width: 1px;
+    width:800px;
+    height:400px;
+    padding-left: 60px;
+    margin-left: 40px;
+    
+}
+p{
+    color:red;
+}
